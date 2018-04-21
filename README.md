@@ -1,5 +1,9 @@
 # Developer Journal
 
+- [Questions to research](journals/questions.md)
+
+- [Algorithms](journals/algorithm.md)
+
 ## Languages
 - [Go](journals/go.md)
 - [CSS](journals/css.md)
